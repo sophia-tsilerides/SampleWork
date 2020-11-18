@@ -1,4 +1,4 @@
-# Sample Work 2019
+# Sample Work
 Our world is experiencing an influx of data with the immense potential of making our cities, economies, and lives smarter and more efficient. Exciting opportunities await beyond this rapidly evolving world of data science and I am so excited to be a part of it. 
 
 I aspire to be part of the changes that are happening in business today; to operate an organization directly and efficiently using insights from data with new technology. This repository contains some of my sample work and research from academia. 
